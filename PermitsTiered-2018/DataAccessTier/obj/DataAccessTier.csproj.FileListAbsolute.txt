@@ -1,0 +1,10 @@
+C:\Classes\Prog 120 - Rumans F07\Examples\10 TieredSolution\DataAccessTier\bin\Debug\DataAccessTier.dll
+C:\Classes\Prog 120 - Rumans F07\Examples\10 TieredSolution\DataAccessTier\bin\Debug\DataAccessTier.pdb
+C:\Classes\Prog 120 - Rumans F07\Examples\10 TieredSolution\DataAccessTier\obj\Debug\ResolveAssemblyReference.cache
+C:\Classes\Prog 120 - Rumans F07\Examples\10 TieredSolution\DataAccessTier\obj\Debug\DataAccessTier.dll
+C:\Classes\Prog 120 - Rumans F07\Examples\10 TieredSolution\DataAccessTier\obj\Debug\DataAccessTier.pdb
+C:\Classes\PROG 120 F08\Day 5\10 TieredSolution\DataAccessTier\bin\Debug\DataAccessTier.dll
+C:\Classes\PROG 120 F08\Day 5\10 TieredSolution\DataAccessTier\bin\Debug\DataAccessTier.pdb
+C:\Classes\PROG 120 F08\Day 5\10 TieredSolution\DataAccessTier\obj\Debug\ResolveAssemblyReference.cache
+C:\Classes\PROG 120 F08\Day 5\10 TieredSolution\DataAccessTier\obj\Debug\DataAccessTier.dll
+C:\Classes\PROG 120 F08\Day 5\10 TieredSolution\DataAccessTier\obj\Debug\DataAccessTier.pdb

@@ -1,0 +1,14 @@
+C:\Classes\Prog 120 - Rumans F07\Examples\10 TieredSolution\BusinessTier\bin\Debug\BusinessTier.dll
+C:\Classes\Prog 120 - Rumans F07\Examples\10 TieredSolution\BusinessTier\bin\Debug\BusinessTier.pdb
+C:\Classes\Prog 120 - Rumans F07\Examples\10 TieredSolution\BusinessTier\bin\Debug\DataAccessTier.dll
+C:\Classes\Prog 120 - Rumans F07\Examples\10 TieredSolution\BusinessTier\bin\Debug\DataAccessTier.pdb
+C:\Classes\Prog 120 - Rumans F07\Examples\10 TieredSolution\BusinessTier\obj\Debug\ResolveAssemblyReference.cache
+C:\Classes\Prog 120 - Rumans F07\Examples\10 TieredSolution\BusinessTier\obj\Debug\BusinessTier.dll
+C:\Classes\Prog 120 - Rumans F07\Examples\10 TieredSolution\BusinessTier\obj\Debug\BusinessTier.pdb
+C:\Classes\PROG 120 F08\Day 5\10 TieredSolution\BusinessTier\bin\Debug\BusinessTier.dll
+C:\Classes\PROG 120 F08\Day 5\10 TieredSolution\BusinessTier\bin\Debug\BusinessTier.pdb
+C:\Classes\PROG 120 F08\Day 5\10 TieredSolution\BusinessTier\bin\Debug\DataAccessTier.dll
+C:\Classes\PROG 120 F08\Day 5\10 TieredSolution\BusinessTier\bin\Debug\DataAccessTier.pdb
+C:\Classes\PROG 120 F08\Day 5\10 TieredSolution\BusinessTier\obj\Debug\ResolveAssemblyReference.cache
+C:\Classes\PROG 120 F08\Day 5\10 TieredSolution\BusinessTier\obj\Debug\BusinessTier.dll
+C:\Classes\PROG 120 F08\Day 5\10 TieredSolution\BusinessTier\obj\Debug\BusinessTier.pdb

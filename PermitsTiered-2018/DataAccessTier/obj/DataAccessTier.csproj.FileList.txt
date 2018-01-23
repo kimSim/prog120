@@ -1,0 +1,5 @@
+bin\Debug\DataAccessTier.dll
+bin\Debug\DataAccessTier.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DataAccessTier.dll
+obj\Debug\DataAccessTier.pdb

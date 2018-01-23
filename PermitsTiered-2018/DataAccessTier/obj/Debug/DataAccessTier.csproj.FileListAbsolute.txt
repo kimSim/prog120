@@ -1,0 +1,74 @@
+C:\Classes\PROG 120 F08\Day 5\10 TieredSolution\DataAccessTier\bin\Debug\DataAccessTier.dll
+C:\Classes\PROG 120 F08\Day 5\10 TieredSolution\DataAccessTier\bin\Debug\DataAccessTier.pdb
+C:\Classes\PROG 120 F08\Day 5\10 TieredSolution\DataAccessTier\obj\Debug\ResolveAssemblyReference.cache
+C:\Classes\PROG 120 F08\Day 5\10 TieredSolution\DataAccessTier\obj\Debug\DataAccessTier.dll
+C:\Classes\PROG 120 F08\Day 5\10 TieredSolution\DataAccessTier\obj\Debug\DataAccessTier.pdb
+C:\Classes\PROG 120 F09\Module 9 Static Members\05 TieredSolution\DataAccessTier\bin\Debug\DataAccessTier.dll
+C:\Classes\PROG 120 F09\Module 9 Static Members\05 TieredSolution\DataAccessTier\bin\Debug\DataAccessTier.pdb
+C:\Classes\PROG 120 F09\Module 9 Static Members\05 TieredSolution\DataAccessTier\obj\Debug\ResolveAssemblyReference.cache
+C:\Classes\PROG 120 F09\Module 9 Static Members\05 TieredSolution\DataAccessTier\obj\Debug\DataAccessTier.dll
+C:\Classes\PROG 120 F09\Module 9 Static Members\05 TieredSolution\DataAccessTier\obj\Debug\DataAccessTier.pdb
+C:\Classes\PROG 120 F09\Module 10 N-Tier Architecture\10 TieredSolution\DataAccessTier\bin\Debug\DataAccessTier.dll
+C:\Classes\PROG 120 F09\Module 10 N-Tier Architecture\10 TieredSolution\DataAccessTier\bin\Debug\DataAccessTier.pdb
+C:\Classes\PROG 120 F09\Module 10 N-Tier Architecture\10 TieredSolution\DataAccessTier\obj\Debug\ResolveAssemblyReference.cache
+C:\Classes\PROG 120 F09\Module 10 N-Tier Architecture\10 TieredSolution\DataAccessTier\obj\Debug\DataAccessTier.dll
+C:\Classes\PROG 120 F09\Module 10 N-Tier Architecture\10 TieredSolution\DataAccessTier\obj\Debug\DataAccessTier.pdb
+C:\Classes\Prog 120 F10\Prog 120 F10\Module 10-2 N-Tier Architecture\10 TieredSolution\DataAccessTier\bin\Debug\DataAccessTier.dll
+C:\Classes\Prog 120 F10\Prog 120 F10\Module 10-2 N-Tier Architecture\10 TieredSolution\DataAccessTier\bin\Debug\DataAccessTier.pdb
+C:\Classes\Prog 120 F10\Prog 120 F10\Module 10-2 N-Tier Architecture\10 TieredSolution\DataAccessTier\obj\Debug\ResolveAssemblyReference.cache
+C:\Classes\Prog 120 F10\Prog 120 F10\Module 10-2 N-Tier Architecture\10 TieredSolution\DataAccessTier\obj\Debug\DataAccessTier.dll
+C:\Classes\Prog 120 F10\Prog 120 F10\Module 10-2 N-Tier Architecture\10 TieredSolution\DataAccessTier\obj\Debug\DataAccessTier.pdb
+C:\Classes\Prog 120 Sp 11\Sp 11 Modules\Module 09 N-Tier Architecture\09 TieredSolution\DataAccessTier\bin\Debug\DataAccessTier.dll
+C:\Classes\Prog 120 Sp 11\Sp 11 Modules\Module 09 N-Tier Architecture\09 TieredSolution\DataAccessTier\bin\Debug\DataAccessTier.pdb
+C:\Classes\Prog 120 Sp 11\Sp 11 Modules\Module 09 N-Tier Architecture\09 TieredSolution\DataAccessTier\obj\Debug\ResolveAssemblyReference.cache
+C:\Classes\Prog 120 Sp 11\Sp 11 Modules\Module 09 N-Tier Architecture\09 TieredSolution\DataAccessTier\obj\Debug\DataAccessTier.dll
+C:\Classes\Prog 120 Sp 11\Sp 11 Modules\Module 09 N-Tier Architecture\09 TieredSolution\DataAccessTier\obj\Debug\DataAccessTier.pdb
+C:\Users\kurt\Desktop\BC120\PROG 120 Fall13\Module 09 N-Tier Architecture\09 TieredSolution\DataAccessTier\bin\Debug\DataAccessTier.dll
+C:\Users\kurt\Desktop\BC120\PROG 120 Fall13\Module 09 N-Tier Architecture\09 TieredSolution\DataAccessTier\bin\Debug\DataAccessTier.pdb
+C:\Users\kurt\Desktop\BC120\PROG 120 Fall13\Module 09 N-Tier Architecture\09 TieredSolution\DataAccessTier\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kurt\Desktop\BC120\PROG 120 Fall13\Module 09 N-Tier Architecture\09 TieredSolution\DataAccessTier\obj\Debug\DataAccessTier.dll
+C:\Users\kurt\Desktop\BC120\PROG 120 Fall13\Module 09 N-Tier Architecture\09 TieredSolution\DataAccessTier\obj\Debug\DataAccessTier.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 09 N-Tier Architecture\09 TieredSolutionConsole\DataAccessTier\obj\Debug\DataAccessTier.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 09 N-Tier Architecture\09 TieredSolutionConsole\DataAccessTier\obj\Debug\DataAccessTier.dll
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 09 N-Tier Architecture\09 TieredSolutionConsole\DataAccessTier\obj\Debug\DataAccessTier.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 09 N-Tier Architecture\09 TieredSolutionConsole\DataAccessTier\bin\Debug\DataAccessTier.dll
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 09 N-Tier Architecture\09 TieredSolutionConsole\DataAccessTier\bin\Debug\DataAccessTier.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 03 Creating a Class-ExceptionHandling\nTier\09 TieredSolutionConsole\DataAccessTier\bin\Debug\DataAccessTier.dll
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 03 Creating a Class-ExceptionHandling\nTier\09 TieredSolutionConsole\DataAccessTier\bin\Debug\DataAccessTier.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 03 Creating a Class-ExceptionHandling\nTier\09 TieredSolutionConsole\DataAccessTier\bin\Debug\DataAccessTier.dll.CodeAnalysisLog.xml
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 03 Creating a Class-ExceptionHandling\nTier\09 TieredSolutionConsole\DataAccessTier\bin\Debug\DataAccessTier.dll.lastcodeanalysissucceeded
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 03 Creating a Class-ExceptionHandling\nTier\09 TieredSolutionConsole\DataAccessTier\obj\Debug\DataAccessTier.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 03 Creating a Class-ExceptionHandling\nTier\09 TieredSolutionConsole\DataAccessTier\obj\Debug\DataAccessTier.dll
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 03 Creating a Class-ExceptionHandling\nTier\09 TieredSolutionConsole\DataAccessTier\obj\Debug\DataAccessTier.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod04 Creating a Class- continued\nTier\PermitsTieredSolutionConsole\DataAccessTier\bin\Debug\DataAccessTier.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod04 Creating a Class- continued\nTier\PermitsTieredSolutionConsole\DataAccessTier\bin\Debug\DataAccessTier.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod04 Creating a Class- continued\nTier\PermitsTieredSolutionConsole\DataAccessTier\obj\Debug\DataAccessTier.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod04 Creating a Class- continued\nTier\PermitsTieredSolutionConsole\DataAccessTier\obj\Debug\DataAccessTier.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod04 Creating a Class- continued\nTier\PermitsTieredSolutionConsole\DataAccessTier\obj\Debug\DataAccessTier.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod05 static class\PermitsTieredSolutionConsole\DataAccessTier\bin\Debug\DataAccessTier.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod05 static class\PermitsTieredSolutionConsole\DataAccessTier\bin\Debug\DataAccessTier.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod05 static class\PermitsTieredSolutionConsole\DataAccessTier\obj\Debug\DataAccessTier.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod05 static class\PermitsTieredSolutionConsole\DataAccessTier\obj\Debug\DataAccessTier.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod05 static class\PermitsTieredSolutionConsole\DataAccessTier\obj\Debug\DataAccessTier.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod05 3 tier-MVC\PermitsTieredSolutionConsole\PermitsTieredSolutionConsole\DataAccessTier\bin\Debug\DataAccessTier.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod05 3 tier-MVC\PermitsTieredSolutionConsole\PermitsTieredSolutionConsole\DataAccessTier\bin\Debug\DataAccessTier.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod05 3 tier-MVC\PermitsTieredSolutionConsole\PermitsTieredSolutionConsole\DataAccessTier\obj\Debug\DataAccessTier.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod05 3 tier-MVC\PermitsTieredSolutionConsole\PermitsTieredSolutionConsole\DataAccessTier\obj\Debug\DataAccessTier.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod05 3 tier-MVC\PermitsTieredSolutionConsole\PermitsTieredSolutionConsole\DataAccessTier\obj\Debug\DataAccessTier.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05 3 tier-MVC\PermitsTieredSol\DataAccessTier\bin\Debug\DataAccessTier.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05 3 tier-MVC\PermitsTieredSol\DataAccessTier\bin\Debug\DataAccessTier.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05 3 tier-MVC\PermitsTieredSol\DataAccessTier\obj\Debug\DataAccessTier.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05 3 tier-MVC\PermitsTieredSol\DataAccessTier\obj\Debug\DataAccessTier.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05 3 tier-MVC\PermitsTieredSol\DataAccessTier\obj\Debug\DataAccessTier.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Win-18\Mod05 3 tier-MVC\PermitsTiered-2018\DataAccessTier\bin\Debug\DataAccessTier.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Win-18\Mod05 3 tier-MVC\PermitsTiered-2018\DataAccessTier\bin\Debug\DataAccessTier.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Win-18\Mod05 3 tier-MVC\PermitsTiered-2018\DataAccessTier\obj\Debug\DataAccessTier.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Win-18\Mod05 3 tier-MVC\PermitsTiered-2018\DataAccessTier\obj\Debug\DataAccessTier.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Win-18\Mod05 3 tier-MVC\PermitsTiered-2018\DataAccessTier\obj\Debug\DataAccessTier.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Win-18\Mod05 3 tier-MVC\PermitsTiered-2018\DataAccessTier\obj\Debug\DataAccessTier.pdb
+C:\Users\simon.kim\Documents\Visual Studio 2017\Projects\PermitsTiered-2018\DataAccessTier\bin\Debug\DataAccessTier.dll
+C:\Users\simon.kim\Documents\Visual Studio 2017\Projects\PermitsTiered-2018\DataAccessTier\bin\Debug\DataAccessTier.pdb
+C:\Users\simon.kim\Documents\Visual Studio 2017\Projects\PermitsTiered-2018\DataAccessTier\obj\Debug\DataAccessTier.csprojResolveAssemblyReference.cache
+C:\Users\simon.kim\Documents\Visual Studio 2017\Projects\PermitsTiered-2018\DataAccessTier\obj\Debug\DataAccessTier.csproj.CoreCompileInputs.cache
+C:\Users\simon.kim\Documents\Visual Studio 2017\Projects\PermitsTiered-2018\DataAccessTier\obj\Debug\DataAccessTier.dll
+C:\Users\simon.kim\Documents\Visual Studio 2017\Projects\PermitsTiered-2018\DataAccessTier\obj\Debug\DataAccessTier.pdb

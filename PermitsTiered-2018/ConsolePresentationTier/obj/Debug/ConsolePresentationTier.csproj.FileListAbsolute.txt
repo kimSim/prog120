@@ -1,0 +1,131 @@
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 09 N-Tier Architecture\09 TieredSolutionConsole\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.exe.config
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 09 N-Tier Architecture\09 TieredSolutionConsole\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.exe
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 09 N-Tier Architecture\09 TieredSolutionConsole\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 09 N-Tier Architecture\09 TieredSolutionConsole\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 09 N-Tier Architecture\09 TieredSolutionConsole\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.exe
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 09 N-Tier Architecture\09 TieredSolutionConsole\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 09 N-Tier Architecture\09 TieredSolutionConsole\ConsolePresentationTier\bin\Debug\BusinessTier.dll
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 09 N-Tier Architecture\09 TieredSolutionConsole\ConsolePresentationTier\bin\Debug\DataAccessTier.dll
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 09 N-Tier Architecture\09 TieredSolutionConsole\ConsolePresentationTier\bin\Debug\BusinessTier.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 09 N-Tier Architecture\09 TieredSolutionConsole\ConsolePresentationTier\bin\Debug\DataAccessTier.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 03 Creating a Class-ExceptionHandling\nTier\09 TieredSolutionConsole\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.exe.config
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 03 Creating a Class-ExceptionHandling\nTier\09 TieredSolutionConsole\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.exe
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 03 Creating a Class-ExceptionHandling\nTier\09 TieredSolutionConsole\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 03 Creating a Class-ExceptionHandling\nTier\09 TieredSolutionConsole\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.exe
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 03 Creating a Class-ExceptionHandling\nTier\09 TieredSolutionConsole\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 03 Creating a Class-ExceptionHandling\nTier\09 TieredSolutionConsole\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.exe.CodeAnalysisLog.xml
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 03 Creating a Class-ExceptionHandling\nTier\09 TieredSolutionConsole\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.exe.lastcodeanalysissucceeded
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 03 Creating a Class-ExceptionHandling\nTier\09 TieredSolutionConsole\ConsolePresentationTier\bin\Debug\BusinessTier.dll
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 03 Creating a Class-ExceptionHandling\nTier\09 TieredSolutionConsole\ConsolePresentationTier\bin\Debug\DataAccessTier.dll
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 03 Creating a Class-ExceptionHandling\nTier\09 TieredSolutionConsole\ConsolePresentationTier\bin\Debug\BusinessTier.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 03 Creating a Class-ExceptionHandling\nTier\09 TieredSolutionConsole\ConsolePresentationTier\bin\Debug\DataAccessTier.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 03 Creating a Class-ExceptionHandling\nTier\09 TieredSolutionConsole\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 04 Creating a Class- continued\nTier\PermitsTieredSolutionConsole\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.exe.config
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 04 Creating a Class- continued\nTier\PermitsTieredSolutionConsole\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.exe
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 04 Creating a Class- continued\nTier\PermitsTieredSolutionConsole\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.pdb
+C:\Users\kurt\Desktop\PermitsTieredSolutionConsole\PermitsTieredSolutionConsole\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.exe.config
+C:\Users\kurt\Desktop\PermitsTieredSolutionConsole\PermitsTieredSolutionConsole\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.exe
+C:\Users\kurt\Desktop\PermitsTieredSolutionConsole\PermitsTieredSolutionConsole\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod04 Creating a Class- continued\nTier\PermitsTieredSolutionConsole\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod04 Creating a Class- continued\nTier\PermitsTieredSolutionConsole\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod04 Creating a Class- continued\nTier\PermitsTieredSolutionConsole\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod04 Creating a Class- continued\nTier\PermitsTieredSolutionConsole\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod04 Creating a Class- continued\nTier\PermitsTieredSolutionConsole\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod04 Creating a Class- continued\nTier\PermitsTieredSolutionConsole\ConsolePresentationTier\bin\Debug\BusinessTier.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod04 Creating a Class- continued\nTier\PermitsTieredSolutionConsole\ConsolePresentationTier\bin\Debug\DataAccessTier.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod04 Creating a Class- continued\nTier\PermitsTieredSolutionConsole\ConsolePresentationTier\bin\Debug\BusinessTier.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod04 Creating a Class- continued\nTier\PermitsTieredSolutionConsole\ConsolePresentationTier\bin\Debug\DataAccessTier.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod04 Creating a Class- continued\nTier\PermitsTieredSolutionConsole\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod04 OO overview and Ntier\nTier\PermitsTieredSolutionConsole\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod04 OO overview and Ntier\nTier\PermitsTieredSolutionConsole\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod04 OO overview and Ntier\nTier\PermitsTieredSolutionConsole\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod05 static class\PermitsTieredSolutionConsole\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod05 static class\PermitsTieredSolutionConsole\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod05 static class\PermitsTieredSolutionConsole\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod05 static class\PermitsTieredSolutionConsole\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod05 static class\PermitsTieredSolutionConsole\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod05 static class\PermitsTieredSolutionConsole\ConsolePresentationTier\bin\Debug\BusinessTier.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod05 static class\PermitsTieredSolutionConsole\ConsolePresentationTier\bin\Debug\DataAccessTier.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod05 static class\PermitsTieredSolutionConsole\ConsolePresentationTier\bin\Debug\BusinessTier.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod05 static class\PermitsTieredSolutionConsole\ConsolePresentationTier\bin\Debug\DataAccessTier.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod05 static class\PermitsTieredSolutionConsole\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod05 3 tier-MVC\PermitsTieredSolutionConsole\PermitsTieredSolutionConsole\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod05 3 tier-MVC\PermitsTieredSolutionConsole\PermitsTieredSolutionConsole\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod05 3 tier-MVC\PermitsTieredSolutionConsole\PermitsTieredSolutionConsole\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod05 3 tier-MVC\PermitsTieredSolutionConsole\PermitsTieredSolutionConsole\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod05 3 tier-MVC\PermitsTieredSolutionConsole\PermitsTieredSolutionConsole\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod05 3 tier-MVC\PermitsTieredSolutionConsole\PermitsTieredSolutionConsole\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod05 3 tier-MVC\PermitsTieredSolutionConsole\PermitsTieredSolutionConsole\ConsolePresentationTier\bin\Debug\BusinessTier.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod05 3 tier-MVC\PermitsTieredSolutionConsole\PermitsTieredSolutionConsole\ConsolePresentationTier\bin\Debug\DataAccessTier.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod05 3 tier-MVC\PermitsTieredSolutionConsole\PermitsTieredSolutionConsole\ConsolePresentationTier\bin\Debug\BusinessTier.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod05 3 tier-MVC\PermitsTieredSolutionConsole\PermitsTieredSolutionConsole\ConsolePresentationTier\bin\Debug\DataAccessTier.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod05 3 tier-MVC\PermitsTieredSolutionConsole\PermitsTieredSolutionConsole\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod05 3 tier-MVC\PermitsTieredSolutionConsole\PermitsTieredSolutionConsole\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod05 3 tier-MVC\PermitsTieredSolutionConsole\PermitsTieredSolutionConsole\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod05 3 tier-MVC\PermitsTieredSol\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod05 3 tier-MVC\PermitsTieredSol\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod05 3 tier-MVC\PermitsTieredSol\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod05 3 tier-MVC\PermitsTieredSol\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.exe.config
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod05 3 tier-MVC\PermitsTieredSol\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod05 3 tier-MVC\PermitsTieredSol\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05 3 tier-MVC\PermitsTieredSol\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05 3 tier-MVC\PermitsTieredSol\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05 3 tier-MVC\PermitsTieredSol\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05 3 tier-MVC\PermitsTieredSol\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05 3 tier-MVC\PermitsTieredSol\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05 3 tier-MVC\PermitsTieredSol\ConsolePresentationTier\bin\Debug\BusinessTier.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05 3 tier-MVC\PermitsTieredSol\ConsolePresentationTier\bin\Debug\DataAccessTier.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05 3 tier-MVC\PermitsTieredSol\ConsolePresentationTier\bin\Debug\BusinessTier.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05 3 tier-MVC\PermitsTieredSol\ConsolePresentationTier\bin\Debug\DataAccessTier.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05 3 tier-MVC\PermitsTieredSol\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05 3 tier-MVC\PermitsTiered1stVersion\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.exe.config
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05 3 tier-MVC\PermitsTiered1stVersion\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05 3 tier-MVC\PermitsTiered1stVersion\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05 3 tier-MVC\PermitsTiered1stVersion\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05 3 tier-MVC\PermitsTiered1stVersion\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05 3 tier-MVC\PermitsTiered1stVersion\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05 3 tier-MVC\PermitsTiered1stVersion\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05 3 tier-MVC\PermitsTiered1stVersion\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05 3 tier-MVC\PermitsTiered1stVersion\ConsolePresentationTier\bin\Debug\BusinessTier.dll
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05 3 tier-MVC\PermitsTiered1stVersion\ConsolePresentationTier\bin\Debug\DataAccessTier.dll
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05 3 tier-MVC\PermitsTiered1stVersion\ConsolePresentationTier\bin\Debug\BusinessTier.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05 3 tier-MVC\PermitsTiered1stVersion\ConsolePresentationTier\bin\Debug\DataAccessTier.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05 3 tier-MVC\PermitsTiered1stVersion\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\Prog120-Winter2015\Mod05 3 tier-MVC\PermitsTiered1stVersion\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\Prog120-Winter2015\Mod05 3 tier-MVC\PermitsTiered1stVersion\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\Prog120-Winter2015\Mod05 3 tier-MVC\PermitsTiered1stVersion\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod05 3 tier-MVC\PermitsTiered1stVersion\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod05 3 tier-MVC\PermitsTiered1stVersion\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod05 3 tier-MVC\PermitsTiered1stVersion\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod05 3 tier-MVC\PermitsTiered1stVersion\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod05 3 tier-MVC\PermitsTiered1stVersion\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod05 3 tier-MVC\PermitsTiered1stVersion\ConsolePresentationTier\bin\Debug\BusinessTier.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod05 3 tier-MVC\PermitsTiered1stVersion\ConsolePresentationTier\bin\Debug\DataAccessTier.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod05 3 tier-MVC\PermitsTiered1stVersion\ConsolePresentationTier\bin\Debug\BusinessTier.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod05 3 tier-MVC\PermitsTiered1stVersion\ConsolePresentationTier\bin\Debug\DataAccessTier.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod05 3 tier-MVC\PermitsTiered1stVersion\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Winter2017\Prog-120-Winter2017\Mod05xxx 3 tier-MVC\PermitsTiered1stVersion\PermitsTiered1stVersion\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-Winter2017\Prog-120-Winter2017\Mod05xxx 3 tier-MVC\PermitsTiered1stVersion\PermitsTiered1stVersion\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Winter2017\Prog-120-Winter2017\Mod05xxx 3 tier-MVC\PermitsTiered1stVersion\PermitsTiered1stVersion\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Win-18\Mod05 3 tier-MVC\PermitsTiered-2018\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Win-18\Mod05 3 tier-MVC\PermitsTiered-2018\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Win-18\Mod05 3 tier-MVC\PermitsTiered-2018\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Win-18\Mod05 3 tier-MVC\PermitsTiered-2018\ConsolePresentationTier\bin\Debug\BusinessTier.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Win-18\Mod05 3 tier-MVC\PermitsTiered-2018\ConsolePresentationTier\bin\Debug\DataAccessTier.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Win-18\Mod05 3 tier-MVC\PermitsTiered-2018\ConsolePresentationTier\bin\Debug\BusinessTier.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Win-18\Mod05 3 tier-MVC\PermitsTiered-2018\ConsolePresentationTier\bin\Debug\DataAccessTier.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Win-18\Mod05 3 tier-MVC\PermitsTiered-2018\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Win-18\Mod05 3 tier-MVC\PermitsTiered-2018\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Win-18\Mod05 3 tier-MVC\PermitsTiered-2018\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Win-18\Mod05 3 tier-MVC\PermitsTiered-2018\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.pdb
+C:\Users\simon.kim\Documents\Visual Studio 2017\Projects\PermitsTiered-2018\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.exe.config
+C:\Users\simon.kim\Documents\Visual Studio 2017\Projects\PermitsTiered-2018\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.exe
+C:\Users\simon.kim\Documents\Visual Studio 2017\Projects\PermitsTiered-2018\ConsolePresentationTier\bin\Debug\ConsolePresentationTier.pdb
+C:\Users\simon.kim\Documents\Visual Studio 2017\Projects\PermitsTiered-2018\ConsolePresentationTier\bin\Debug\BusinessTier.dll
+C:\Users\simon.kim\Documents\Visual Studio 2017\Projects\PermitsTiered-2018\ConsolePresentationTier\bin\Debug\DataAccessTier.dll
+C:\Users\simon.kim\Documents\Visual Studio 2017\Projects\PermitsTiered-2018\ConsolePresentationTier\bin\Debug\BusinessTier.pdb
+C:\Users\simon.kim\Documents\Visual Studio 2017\Projects\PermitsTiered-2018\ConsolePresentationTier\bin\Debug\DataAccessTier.pdb
+C:\Users\simon.kim\Documents\Visual Studio 2017\Projects\PermitsTiered-2018\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.csprojResolveAssemblyReference.cache
+C:\Users\simon.kim\Documents\Visual Studio 2017\Projects\PermitsTiered-2018\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.csproj.CoreCompileInputs.cache
+C:\Users\simon.kim\Documents\Visual Studio 2017\Projects\PermitsTiered-2018\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.exe
+C:\Users\simon.kim\Documents\Visual Studio 2017\Projects\PermitsTiered-2018\ConsolePresentationTier\obj\Debug\ConsolePresentationTier.pdb

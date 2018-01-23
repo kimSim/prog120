@@ -1,0 +1,7 @@
+bin\Debug\BusinessTier.dll
+bin\Debug\BusinessTier.pdb
+bin\Debug\DataAccessTier.dll
+bin\Debug\DataAccessTier.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BusinessTier.dll
+obj\Debug\BusinessTier.pdb
